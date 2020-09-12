@@ -4,7 +4,7 @@
 
 # Turtle importation because of its user friendly graphical interface
 import turtle
-import winsound
+import winsound # winsound helps in the bringing in of the bounc sound
 
 # windows creation
 
